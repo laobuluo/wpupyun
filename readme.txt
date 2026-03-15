@@ -1,7 +1,7 @@
 === WPUPYUN又拍云云存储 ===
 
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags:WordPress对象存储,WordPress加速,WordPress 又拍云存储, 又拍云WordPress,又拍云对象存储
 Requires at least: 5.3
 Tested up to: 6.9.1
@@ -24,13 +24,13 @@ WordPress又拍云云存储插件（简称:WPUPYUN），基于又拍云云存储
 5. 支持本地和对象存储分离和同步
 6. 优化重构加速上传
 
-又拍云插件安装方法：[https://www.lezaiyun.com/1099.html](https://www.lezaiyun.com/1099.html)
+又拍云插件安装方法：[https://www.laojiang.me/5967.html](https://www.laojiang.me/5967.html)
 
 ## 网站支持
 
-* [老蒋玩主机](https://www.laojiang.me/ "老蒋玩主机")
+* [主机评价网](https://www.zhujipingjia.com/ "主机评价网")
 
-* [乐在云工作室](https://www.lezaiyun.com/ "乐在云工作室")
+* [乐在云](https://www.lezaiyun.com/ "乐在云")
 
 * 欢迎加入插件和站长微信公众号：老蒋朋友圈（公众号）
 

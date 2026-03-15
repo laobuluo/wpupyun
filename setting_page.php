@@ -62,11 +62,11 @@ function wpupyun_setting_page() {
 			<span class="wbs-span">又拍云云存储插件</span><span class="wbs-free">Free V4.0</span>
 		</div>
 		<div class="laobuluo-wbs-btn">
-			<a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/1099.html" target="_blank">
+			<a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/5967.html" target="_blank">
 				<i class="layui-icon layui-icon-home"></i> 插件主页
 			</a>
-			<a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/contact/" target="_blank">
-				<i class="layui-icon layui-icon-release"></i> 插件教程
+			<a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/contact/" target="_blank">
+				<i class="layui-icon layui-icon-release"></i> 联系解决
 			</a>
 		</div>
 	</div>
@@ -231,7 +231,7 @@ function wpupyun_setting_page() {
 					<span class="codeshow"></span>
 				</div>
 				<div class="laobuluo-links">
-                    <a href="https://www.lezaiyun.com/"  target="_blank">乐在云工作室</a>
+                    <a href="https://www.laojiang.me/"  target="_blank">老蒋玩开发</a>
                     <a href="https://www.zhujipingjia.com/pianyivps.html" target="_blank">便宜VPS推荐</a>
                     <a href="https://www.zhujipingjia.com/hkcn2.html" target="_blank">香港VPS推荐</a>
                     <a href="hhttps://www.zhujipingjia.com/uscn2gia.html" target="_blank">美国VPS推荐</a>
